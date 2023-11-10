@@ -1,7 +1,5 @@
 package ca.sheridancollege.project;
 
-import javax.smartcardio.Card;
-
 public abstract class Player {
     private final String name;
     private GroupOfCards hand;

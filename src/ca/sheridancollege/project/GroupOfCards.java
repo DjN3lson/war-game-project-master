@@ -2,7 +2,6 @@ package ca.sheridancollege.project;
 
 import java.util.ArrayList;
 import java.util.Collections;
-import javax.smartcardio.Card;
 
 public class GroupOfCards {
     private final ArrayList<Card> cards;

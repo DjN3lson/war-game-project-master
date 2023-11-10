@@ -1,7 +1,5 @@
 package ca.sheridancollege.project;
 
-import javax.smartcardio.Card;
-
 public abstract class WarPlayer extends Player {
 
     public WarPlayer(String name) {
